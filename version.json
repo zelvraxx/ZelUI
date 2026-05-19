@@ -1,0 +1,9 @@
+{
+     "version": "2.0.3",
+     "download_url": "https://github.com/zelvraxx/ZelUI/releases/latest",
+     "changelog": [
+       "Version initiale avec système d'update",
+       "Gestion des curseurs avec resize",
+       "Système de profils"
+     ]
+   }
