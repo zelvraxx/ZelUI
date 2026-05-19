@@ -2,8 +2,7 @@
      "version": "2.0.6",
      "download_url": "https://github.com/zelvraxx/ZelUI/releases/download/v2.0.6/ZelUI.exe",
      "changelog": [
-       "Version initiale avec système d'update",
-       "Gestion des curseurs avec resize",
-       "Système de profils"
+       "Fix du bug quand on cliquait sur le lien dans les paramètres",
+       "Nouvelle couleurs d'applications"
      ]
    }
