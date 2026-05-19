@@ -1,6 +1,6 @@
 {
      "version": "2.0.5",
-     "download_url": "https://github.com/zelvraxx/ZelUI_Test/releases/download/v2.0.5/ZelUI.exe",
+     "download_url": "https://github.com/zelvraxx/ZelUI/releases/download/v2.0.5/ZelUI.exe",
      "changelog": [
        "Version initiale avec système d'update",
        "Gestion des curseurs avec resize",
