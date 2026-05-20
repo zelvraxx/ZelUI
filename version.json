@@ -1,7 +1,9 @@
 {
-     "version": "2.1.3",
-     "download_url": "https://github.com/zelvraxx/ZelUI/releases/download/v2.1.3/ZelUI.exe",
+     "version": "2.1.4",
+     "download_url": "https://github.com/zelvraxx/ZelUI/releases/download/v2.1.4/ZelUI.exe",
      "changelog": [
-          "Fix du curseur preview et reset"
+          "Ajout d'un bouton Undo dans Cursor Colors pour annuler le changement de couleur",
+          "Ajout d'un bouton pour terminer Roblox dans les paramètres",
+          "Ajout d'un indicateur qui dit si le path du Roblox est correct ou non"
      ]
 }
