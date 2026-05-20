@@ -1,7 +1,15 @@
 {
-     "version": "2.0.9",
-     "download_url": "https://github.com/zelvraxx/ZelUI/releases/download/v2.0.9/ZelUI.exe",
+     "version": "2.1.0",
+     "download_url": "https://github.com/zelvraxx/ZelUI/releases/download/v2.1.0/ZelUI.exe",
      "changelog": [
-       "Patch 3 du Failed to load Python DLL"
+          "Patch 3 du 'Failed to load Python DLL' (Isolation totale via Batch & start /i)",
+          "Synchronisation automatique de la version entre app.py et index.html au build",
+          "Nouveau système de statut en temps réel (Badge Lumineux) pour les Polices et Sons",
+          "Ajout d'une prévisualisation dynamique des polices avec différentes tailles de texte",
+          "Nouveau lecteur audio moderne et personnalisé pour tester le Death Sound",
+          "Nouvel onglet Maintenance avec Nettoyeur de Logs et Cache Roblox intégré",
+          "Possibilité de changer manuellement le chemin de Roblox (pour installations personnalisées)",
+          "Amélioration de la sécurité : détection de Roblox ouvert avant installation",
+          "Nettoyage complet du projet (suppression des fichiers .md et scripts de debug)"
      ]
-   }
+}
