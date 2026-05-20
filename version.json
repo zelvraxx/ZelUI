@@ -1,6 +1,6 @@
 {
-     "version": "2.1.1",
-     "download_url": "https://github.com/zelvraxx/ZelUI/releases/download/v2.1.1/ZelUI.exe",
+     "version": "2.1.2",
+     "download_url": "https://github.com/zelvraxx/ZelUI/releases/download/v2.1.2/ZelUI.exe",
      "changelog": [
           "Ajout du scroll si le patch note est trop grand"
      ]
