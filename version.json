@@ -1,8 +1,7 @@
 {
-     "version": "2.1.2",
-     "download_url": "https://github.com/zelvraxx/ZelUI/releases/download/v2.1.2/ZelUI.exe",
+     "version": "2.1.3",
+     "download_url": "https://github.com/zelvraxx/ZelUI/releases/download/v2.1.3/ZelUI.exe",
      "changelog": [
-          "Fix du bug Python310.dll",
-          "Utilisation du .ps1 au lieu d'un batch"
+          "Fix du curseur preview et reset"
      ]
 }
