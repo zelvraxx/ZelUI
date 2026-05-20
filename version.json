@@ -10,6 +10,7 @@
           "Nouvel onglet Maintenance avec Nettoyeur de Logs et Cache Roblox intégré",
           "Possibilité de changer manuellement le chemin de Roblox (pour installations personnalisées)",
           "Amélioration de la sécurité : détection de Roblox ouvert avant installation",
-          "Nettoyage complet du projet (suppression des fichiers .md et scripts de debug)"
+          "Nettoyage complet du projet (suppression des fichiers .md et scripts de debug)",
+          "Ajout du scroll si le patch note est trop grand"
      ]
 }
