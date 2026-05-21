@@ -1,9 +1,8 @@
 {
-     "version": "2.1.7",
-     "download_url": "https://github.com/zelvraxx/ZelUI/releases/download/v2.1.7/ZelUI.exe",
+     "version": "2.1.8",
+     "download_url": "https://github.com/zelvraxx/ZelUI/releases/download/v2.1.8/ZelUI.exe",
      "changelog": [
-          "Système de connexion avec Discord",
-          "Système de profil et de stats intégré",
-          "Système pour synchroniser les couleurs avec les couleurs discord"
+          "Ajout du bouton pour paramétrer la couleur de l'app avec des couleurs customs",
+          "Ajout des photos de profil et des bannières animées"
      ]
 }
