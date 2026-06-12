@@ -1,15 +1,9 @@
 {
-     "version": "2.1.9",
-     "download_url": "https://github.com/zelvraxx/ZelUI/releases/download/v2.1.9/ZelUI.exe",
+     "version": "2.2.0",
+     "download_url": "https://github.com/zelvraxx/ZelUI/releases/download/v2.2.0/ZelUI.exe",
      "changelog": [
-          "Fix du bouton pour les couleurs customs de l'app.",
-          "Ajout des systèmes de clés pour partager les presets.",
-          "Systèmes de communauté (Follow, Following, Profile, Like de preset, listes de presets).",
-          "Fix des bugs d'apply sur les presets.",
-          "Ajout d'un bouton 'Kill Task' dans les paramètres pour forcer la fermeture de Roblox.",
-          "Ajout d'un loading screen pour rendre l'expérience de l'utilisateur plus imersif.",
-          "Ajout de la pastille de couleur (Suivant l'activité sur Discord, DND, ONLINE, IDLE, OFFLINE).",
-          "Ajout d'une bulle de pensée dans le profile (Visible sur les profiles des autres aussi).",
-          "Ajout de Global Statistics et de Milestones & Achievements pour donner du challenge au utilisateurs."
+          "Ajout de nouvelles skyboxes. (Environ une vingtaine)",
+          "Agrandissement de la photo de profil sur le profil.",
+          "Fix de multiples bugs."
      ]
 }
